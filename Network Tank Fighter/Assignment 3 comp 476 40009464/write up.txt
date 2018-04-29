@@ -1,0 +1,1 @@
+the tiger does a pathfinding going to the point designated
